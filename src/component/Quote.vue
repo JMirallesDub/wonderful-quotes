@@ -14,7 +14,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .panel-body {
   font-family: Arizonia;
   font-size: 24px;
